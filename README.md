@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/LSsT.gif)](https://marouan.icu/)
+[![MasterHead](https://...gif)](https://marouan.icu/)
 
 <h1 align="center">Hi 👋, I'm Marouan</h1>
 <h3 align="center">A passionate full-stack developer with a strong focus on creating dynamic and user-friendly web applications. With over five years of experience, I have honed my skills in both front-end and back-end development, allowing me to build robust and scalable solutions.</h3>
